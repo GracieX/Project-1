@@ -1,18 +1,8 @@
 import csv
 import os
+MODIFIED 
 
-# Files to load 
-file= os.path.join("/Users/yxair/Desktop/NW Bootbcamps/HW/3-Python/Instructions/PyBank/Resources/budget_data.csv")
-file= os.path.join("/Users/yxair/Desktop/NW Bootbcamps/HW/3-Python/Instructions/PyBank/Resources/budget_analysis.txt")
 
-count=0
-revenue=[]
-row_change=[]
-total_revenue=0
-change=[]
-total_changes=0
-greatest_ins_amount=["",0]
-greatest_des_amount=0
 ins_date="Date"
 des_date="Date"
 
